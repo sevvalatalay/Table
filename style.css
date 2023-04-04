@@ -1,0 +1,24 @@
+h2
+{
+    color: #655581;
+  font-size: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #655581;
+}
+
+table
+{
+    background: linear-gradient(#e3e1d6,#c7bfd4);
+    border-collapse: collapse;
+}
+th,td
+{
+    border: 1.5px solid #4c445a  ;
+    padding: 7px;
+    color: #ffffff;
+}
+th
+{
+    background-color: #4c445a;
+    color: #eceaea;
+}
