@@ -10,6 +10,7 @@ table
 {
     background: linear-gradient(#e3e1d6,#c7bfd4);
     border-collapse: collapse;
+    width: 100%;
 }
 th,td
 {
